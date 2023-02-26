@@ -20,7 +20,7 @@ Thank you for visiting my GitHub page.
 ● Presentation: ![PowerPoint](https://img.shields.io/badge/PowerPoint-090909?style=flat-square&logo=microsoftpowerpoint) \
 ● Structured Thinking: Hypothesis A/B Testing | Value Driver Maps 
 
-### Connect with me on LinkedIn...
+### Connect with me on ...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedIn&logoColor=007BB6)](https://www.linkedin.com/in/zhanna-latypova/)
 [![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/janna.latypova)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/zhannaup)
