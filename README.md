@@ -11,7 +11,7 @@ raw data into actionable insights and leveraging AI and machine learning to solv
 I approach each task with flexibility and maintain a strong business-oriented mindset.\
 ⛳️ I continue to work on projects and honing my skills through online classes and exploring an amazing field of Data Science & ML! 🧐\
 
-🏭 Industries: automotive business, finance, production, consulting (B2B/B2C), manufacturing,telecommunications\
+🏭 Industries: automotive business, finance, production, consulting (B2B/B2C), manufacturing,telecommunications
 
 ### 🛠 Languages and Tools:
 ● AI & Deep Learning: ![NLP](https://img.shields.io/badge/build-NLP-black?style=flat-square&logo=NPL&logoColor=violet&logoSize=auto&label=%20&labelColor=abcdef&color=090909&cacheSeconds=3600
