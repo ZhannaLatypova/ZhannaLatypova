@@ -9,7 +9,7 @@ Thank you for visiting my GitHub page.
 raw data into actionable insights and leveraging AI and machine learning to solve complex problems.\
 💼  I am seeking new challenges in data storage, processing, analytics, modeling, and visualization.\
 I approach each task with flexibility and maintain a strong business-oriented mindset.\
-⛳️ I continue to work on projects and honing my skills through online classes and exploring an amazing field of Data Science & ML! 🧐\
+⛳️ I continue to work on projects and honing my skills through online classes and exploring an amazing field of Data Science & ML! 🧐
 
 🏭 Industries: automotive business, finance, production, consulting (B2B/B2C), manufacturing,telecommunications
 
