@@ -5,7 +5,7 @@ Thank you for visiting my GitHub page.
 
 ## A bit about me …
 
-🙃 I am a data analyst and financial expert with over 8 years of experience, specializing in transforming
+🙃 I am a data analyst & scientist and financial expert with over 8 years of experience, specializing in transforming
 raw data into actionable insights and leveraging AI and machine learning to solve complex problems.\
 💼  I am seeking new challenges in data storage, processing, analytics, modeling, and visualization.\
 I approach each task with flexibility and maintain a strong business-oriented mindset.\
