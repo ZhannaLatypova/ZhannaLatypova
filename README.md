@@ -29,7 +29,7 @@ I approach each task with flexibility and maintain a strong business-oriented mi
  
 
 ● Data Visualization: ![Tableau](https://img.shields.io/badge/Tableau-090909?style=flat-square&logo=Tableau)
-![Looker](https://img.shields.io/badge/PowerBI-090909?style=flat-square&logo=PowerBI) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-black?style=flat-square&logoColor=violet&logoSize=auto&color=090909&cacheSeconds=3600)\
+![Looker](https://img.shields.io/badge/Looker-090909?style=flat-square&logo=Looker) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-black?style=flat-square&logoColor=violet&logoSize=auto&color=090909&cacheSeconds=3600)\
 ● Structured Thinking: Hypothesis A/B Testing | Value Driver Maps 
 
 ### Connect with me on ...
